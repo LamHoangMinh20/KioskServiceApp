@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|c:\\users\\asus\\source\\repos\\kioskserviceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|c:\\users\\asus\\source\\repos\\kioskserviceapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|c:\\users\\asus\\source\\repos\\kioskserviceapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|c:\\users\\asus\\source\\repos\\kioskserviceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|c:\\users\\asus\\source\\repos\\kioskserviceapp\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +82,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T16:18:00.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Models\\Service.cs",
               "RelativeDocumentMoniker": "Models\\Service.cs",
@@ -90,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Assignment.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Models\\Assignment.cs",
               "RelativeDocumentMoniker": "Models\\Assignment.cs",
@@ -102,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Device.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Models\\Device.cs",
               "RelativeDocumentMoniker": "Models\\Device.cs",
@@ -114,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -127,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ServiceAssignmentStats.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Models\\ServiceAssignmentStats.cs",
               "RelativeDocumentMoniker": "Models\\ServiceAssignmentStats.cs",
@@ -145,13 +162,14 @@
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAAEEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBIAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T13:16:51.663Z"
+              "WhenOpened": "2025-06-11T13:16:51.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UsedUnusedAssignments.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Models\\UsedUnusedAssignments.cs",
               "RelativeDocumentMoniker": "Models\\UsedUnusedAssignments.cs",
@@ -163,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "KioskAssignmentCount.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Models\\KioskAssignmentCount.cs",
               "RelativeDocumentMoniker": "Models\\KioskAssignmentCount.cs",
@@ -175,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "KioskServiceApp.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\KioskServiceApp.csproj",
               "RelativeDocumentMoniker": "KioskServiceApp.csproj",
