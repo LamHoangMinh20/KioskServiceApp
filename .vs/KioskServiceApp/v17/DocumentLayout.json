@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|c:\\users\\asus\\source\\repos\\kioskserviceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|c:\\users\\asus\\source\\repos\\kioskserviceapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|c:\\users\\asus\\source\\repos\\kioskserviceapp\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|solutionrelative:models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|c:\\users\\asus\\source\\repos\\kioskserviceapp\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|solutionrelative:models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|c:\\users\\asus\\source\\repos\\kioskserviceapp\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|solutionrelative:models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|c:\\users\\asus\\source\\repos\\kioskserviceapp\\models\\serviceassignmentstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|solutionrelative:models\\serviceassignmentstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|c:\\users\\asus\\source\\repos\\kioskserviceapp\\models\\usedunusedassignments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|solutionrelative:models\\usedunusedassignments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|c:\\users\\asus\\source\\repos\\kioskserviceapp\\models\\kioskassignmentcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|solutionrelative:models\\kioskassignmentcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|c:\\users\\asus\\source\\repos\\kioskserviceapp\\kioskserviceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD4C24BB-BBD6-4ED5-A5B1-A7D41E6DF07A}|KioskServiceApp.csproj|solutionrelative:kioskserviceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Models\\Service.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Models\\Service.cs",
+              "RelativeToolTip": "Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:32:21.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Models\\Assignment.cs",
+              "RelativeToolTip": "Models\\Assignment.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:32:00.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "Models\\Device.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Models\\Device.cs",
+              "RelativeToolTip": "Models\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:31:35.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:39:23.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceAssignmentStats.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Models\\ServiceAssignmentStats.cs",
+              "RelativeDocumentMoniker": "Models\\ServiceAssignmentStats.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Models\\ServiceAssignmentStats.cs",
+              "RelativeToolTip": "Models\\ServiceAssignmentStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:38:22.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:16:51.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsedUnusedAssignments.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Models\\UsedUnusedAssignments.cs",
+              "RelativeDocumentMoniker": "Models\\UsedUnusedAssignments.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Models\\UsedUnusedAssignments.cs",
+              "RelativeToolTip": "Models\\UsedUnusedAssignments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:38:43.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KioskAssignmentCount.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Models\\KioskAssignmentCount.cs",
+              "RelativeDocumentMoniker": "Models\\KioskAssignmentCount.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\Models\\KioskAssignmentCount.cs",
+              "RelativeToolTip": "Models\\KioskAssignmentCount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:39:00.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KioskServiceApp.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\KioskServiceApp.csproj",
+              "RelativeDocumentMoniker": "KioskServiceApp.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\KioskServiceApp\\KioskServiceApp.csproj",
+              "RelativeToolTip": "KioskServiceApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T13:38:00.261Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
